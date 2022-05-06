@@ -1,0 +1,2 @@
+C:\FPro\NewProject\build\jsb-default\frameworks\runtime-src\proj.android-studio\instantapp\jni\Android.mk
+C:\FPro\NewProject\build\jsb-default\frameworks\runtime-src\proj.android-studio\instantapp\jni\Application.mk

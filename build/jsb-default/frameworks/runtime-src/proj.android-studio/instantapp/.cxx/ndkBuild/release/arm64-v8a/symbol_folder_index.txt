@@ -1,0 +1,1 @@
+C:\FPro\NewProject\build\jsb-default\frameworks\runtime-src\proj.android-studio\instantapp\build\intermediates\ndkBuild\release\obj\local\arm64-v8a

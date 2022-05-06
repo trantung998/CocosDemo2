@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13799784812",
+    "project_id": "fir-b2f26",
+    "storage_bucket": "fir-b2f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13799784812:android:f173aa6f2e56a3ed38f349",
+        "android_client_info": {
+          "package_name": "com.rofi.sortmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13799784812-27o7fmjtv3e3r0v2au5vln7gpmhqm2qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGBcUQ5iyVrJ18vgwoUsVv7WhLpKybp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13799784812-27o7fmjtv3e3r0v2au5vln7gpmhqm2qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">hello_world</string>
+    <string name="ironsource_app_id" translatable="false">14972e701</string>
+    <string name="ironsource_placement_startup" translatable="false">Startup</string>
+    <string name="ironsource_placement_home" translatable="false">Home_Screen</string>
+
+</resources>

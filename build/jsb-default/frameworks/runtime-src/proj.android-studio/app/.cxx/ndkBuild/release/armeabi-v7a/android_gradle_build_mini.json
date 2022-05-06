@@ -1,0 +1,250 @@
+{
+  "buildFiles": [
+    "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+    "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+      "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+      "APP_ABI\u003darmeabi-v7a",
+      "NDK_ALL_ABIS\u003darmeabi-v7a",
+      "NDK_DEBUG\u003d0",
+      "APP_PLATFORM\u003dandroid-19",
+      "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+      "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+      "NDK_DEBUG\u003d0",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d0",
+    "APP_PLATFORM\u003dandroid-19",
+    "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+    "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+    "NDK_TOOLCHAIN_VERSION\u003dclang",
+    "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+    "-j6",
+    "NDK_DEBUG\u003d0",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cocos2djs-release-armeabi-v7a": {
+      "artifactName": "cocos2djs",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libcocos2djs.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libcocos2djs.so",
+      "runtimeFiles": []
+    },
+    "pvmp3dec-release-armeabi-v7a": {
+      "artifactName": "pvmp3dec",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libpvmp3dec.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libpvmp3dec.a",
+      "runtimeFiles": []
+    },
+    "cocos2dandroid-release-armeabi-v7a": {
+      "artifactName": "cocos2dandroid",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libcocos2dandroid.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libcocos2dandroid.a",
+      "runtimeFiles": []
+    },
+    "extension-release-armeabi-v7a": {
+      "artifactName": "extension",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libextension.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libextension.a",
+      "runtimeFiles": []
+    },
+    "editorsupport-release-armeabi-v7a": {
+      "artifactName": "editorsupport",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libeditorsupport.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libeditorsupport.a",
+      "runtimeFiles": []
+    },
+    "vorbisidec-release-armeabi-v7a": {
+      "artifactName": "vorbisidec",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libvorbisidec.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libvorbisidec.a",
+      "runtimeFiles": []
+    },
+    "audioengine-release-armeabi-v7a": {
+      "artifactName": "audioengine",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libaudioengine.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libaudioengine.a",
+      "runtimeFiles": []
+    },
+    "cocos2d-release-armeabi-v7a": {
+      "artifactName": "cocos2d",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libcocos2d.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libcocos2d.a",
+      "runtimeFiles": []
+    },
+    "cpufeatures-release-armeabi-v7a": {
+      "artifactName": "cpufeatures",
+      "buildCommandComponents": [
+        "C:\\Users\\Tungt\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\ndk-build.cmd",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+        "NDK_APPLICATION_MK\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d0",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003dC:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj",
+        "NDK_LIBS_OUT\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\lib",
+        "NDK_TOOLCHAIN_VERSION\u003dclang",
+        "NDK_MODULE_PATH\u003dC:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\cocos;C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\cocos2d-x\\external",
+        "-j6",
+        "NDK_DEBUG\u003d0",
+        "C:/FPro/NewProject/build/jsb-default/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libcpufeatures.a"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\FPro\\NewProject\\build\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}
